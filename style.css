@@ -1,0 +1,28 @@
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.hero {
+  padding: 100px 0;
+}
+
+.logo {
+  width: 250px;
+  -webkit-filter: brightness(10);
+  filter: brightness(10);
+}
+
+.vertical-line {
+  border-left: 2px solid rgba(129, 125, 125, 0.274);
+  height: 100%; /* Full height */
+}
+
+footer {
+  background-color: #222;
+}

@@ -1,1 +1,1 @@
-# Simple_Tech_Blog
+# Simple Tech Blog using HTML, CSS and Bootstrap
